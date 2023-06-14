@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    width: 1024px;
+    text-align: center;
+    align-items: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.inp {
+    margin-bottom: 10px;
+}
